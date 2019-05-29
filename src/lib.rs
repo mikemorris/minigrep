@@ -1,3 +1,5 @@
+//! A collection of utilities for searching the contents of strings.
+
 use std::env;
 use std::error::Error;
 use std::fs;
