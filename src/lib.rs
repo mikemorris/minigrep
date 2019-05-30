@@ -102,10 +102,6 @@ pub fn search_case_insensitive<'a>(query: &str, contents: &'a str) -> Vec<&'a st
 
 #[cfg(test)]
 mod tests {
-    use super::*;
-
     #[test]
-    fn hello() {
-        assert!(true);
-    }
+    fn it_works() {}
 }
