@@ -3,5 +3,7 @@ name = "minigrep"
 version = "0.1.0"
 authors = ["Mike Morris <mikemorris@users.noreply.github.com>"]
 edition = "2018"
+description = "A collection of utilities for searching the contents of strings."
+license = "MIT"
 
 [dependencies]
